@@ -13,7 +13,7 @@ Easy whitelist a server with ip adres and port to use your plugin! This is based
 - Customize everything!
 
 ### How to install?
-1. Upload the folder "web" to a server where NodeJS is installed.
+1. Upload the repository to a server where NodeJS is installed.
 1. You just install the needed package by run the next command `npm install`.
 1. You change the port, sessionsecret, username and password in config.json!
 1. You start the webserver with `node index.js`.
