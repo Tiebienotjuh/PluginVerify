@@ -1,6 +1,6 @@
 # Plugin Whitelist
 Easy whitelist a server with ip adres and port to use your plugin! This is based on AdvancedLicense but created for fun!
-![](https://img.shields.io/github/stars/PluginVerify) ![](https://img.shields.io/github/forks/Tiebienotjuh/PluginVerify) ![](	https://img.shields.io/github/stars/Tiebienotjuh/PluginVerify) ![](https://img.shields.io/github/license/Tiebienotjuh/PluginVerify)
+![](https://img.shields.io/github/stars/Tiebienotjuh/PluginVerify) ![](https://img.shields.io/github/forks/Tiebienotjuh/PluginVerify) ![](	https://img.shields.io/github/downloads/Tiebienotjuh/PluginVerify) ![](https://img.shields.io/github/license/Tiebienotjuh/PluginVerify)
 ### Functions
 
 -  Easy to add and remove servers
