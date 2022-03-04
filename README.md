@@ -25,18 +25,15 @@ Easy whitelist a server with ip adres and port to use your plugin! This is based
 If you know a better way to do this. Please contact me on discord! `Tiebienotjuh#3173`
 
 ```
-@Override
-    public void onEnable() {
-        URL url = new URL("http://yourwebserverip:yourwebserverport/verify?port=" + getServer().getPort());
-        HttpURLConnection con = (HttpURLConnection) url.openConnection();
-        int responseCode = con.getResponseCode();
-        if(responseCode == 200) {
-            Bukkit.getLogger().info("Verify Server: Plugin is whitelisted!");
-        } else if(responseCode == 403) {
-            Bukkit.getLogger().warning("Verify server: Plugin isn't whitelisted! Disabling the plugin....");
-            Bukkit.getPluginLoader().disablePlugin(this);
-        }
-    }
+URL url = new URL("http://yourwebserverip:yourwebserverport/verify?port=" + getServer().getPort());
+HttpURLConnection con = (HttpURLConnection) url.openConnection();
+int responseCode = con.getResponseCode();
+if(responseCode == 200) {
+    Bukkit.getLogger().info("Verify Server: Plugin is whitelisted!");
+} else if(responseCode == 403) {
+    Bukkit.getLogger().warning("Verify server: Plugin isn't whitelisted! Disabling the plugin....");
+    Bukkit.getPluginLoader().disablePlugin(this);
+}
 ```
 
 ### Details about the project
