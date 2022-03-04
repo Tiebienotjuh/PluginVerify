@@ -1,6 +1,6 @@
 # Plugin Whitelist
 Easy whitelist a server with ip adres and port to use your plugin! This is based on AdvancedLicense but created for fun!
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg)
+![](https://img.shields.io/github/stars/PluginVerify/editor.md.svg) ![](https://img.shields.io/github/forks/PluginVerify/editor.md.svg) ![](https://img.shields.io/github/release/PluginVerify/editor.md.svg) ![](https://img.shields.io/github/issues/PluginVerify/editor.md.svg)
 ### Functions
 
 -  Easy to add and remove servers
