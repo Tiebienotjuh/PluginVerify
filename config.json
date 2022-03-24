@@ -1,5 +1,6 @@
 {
 	"sessionsecret": "default",
+    "mode": "whitelist",
     "port": "default",
     "username": "default",
     "password": "default"
