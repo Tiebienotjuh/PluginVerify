@@ -25,8 +25,8 @@ Easy whitelist a server with ip adres and port to use your plugin! This is based
 ### Modes
 
 You can choose between `blacklist` and `whitelist`. But what is it?
-- Als je de modus whitelist gebruikt moet elke server toegewezen worden aan de plugin!
-- Als je de modus blacklist gebruikt kan elke server de plugin gebruiken maar kan je servers toevoegen die de plugin niet kunnen gebruiken!
+- If you use whitelist mode every server must be assigned to the plugin!
+- If you use blacklist mode every server can use the plugin but you can add servers that can't use the plugin!
 
 ### Java Example
 If you know a better way to do this. Please contact me on discord! `Tiebienotjuh#3173`
