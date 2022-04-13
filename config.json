@@ -3,5 +3,6 @@
     "mode": "whitelist",
     "port": "default",
     "username": "default",
-    "password": "default"
+    "password": "default",
+    "modules": {}
 }

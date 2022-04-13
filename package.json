@@ -1,6 +1,6 @@
 {
-  "name": "Verify",
-  "version": "1.0.0",
+  "name": "PluginVerify",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
